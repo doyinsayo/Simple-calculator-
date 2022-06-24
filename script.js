@@ -24,4 +24,4 @@ else {
 }
 
 // display the result
-console.log(`${num1} ${operator} ${num2} = ${result}`);
+alert(`${num1} ${operator} ${num2} = ${result}`);
